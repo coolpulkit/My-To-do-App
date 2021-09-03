@@ -1,0 +1,4 @@
+#Fri Sep 03 12:59:58 IST 2021
+base.0=C\:\\Users\\pulki\\OneDrive\\Desktop\\Avissol\\Practice\\sqflite\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
